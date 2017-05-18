@@ -10,7 +10,6 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>integration-tests</module>
         <module>movie-api</module>
         <module>movie-impl</module>
     </modules>
