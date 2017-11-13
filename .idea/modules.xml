@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lagom-java-crud.iml" filepath="$PROJECT_DIR$/lagom-java-crud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/movie-api/movie-api.iml" filepath="$PROJECT_DIR$/movie-api/movie-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/movie-impl/movie-impl.iml" filepath="$PROJECT_DIR$/movie-impl/movie-impl.iml" />
+    </modules>
+  </component>
+</project>
